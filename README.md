@@ -1,2 +1,4 @@
-![](choco9966.github.io/Alzheimer-Lab/0626/image/brain.jpg)
+![](https://github.com/choco9966/Alzheimer-Lab/blob/master/0626/image/brain.jpg)
+
+
 
