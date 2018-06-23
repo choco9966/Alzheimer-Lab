@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 ![](https://github.com/choco9966/Alzheimer-Lab/blob/master/0616/image/brain.jpg)
-=======
-![](https://github.com/choco9966/Alzheimer-Lab/blob/master/0626/image/brain.jpg)
->>>>>>> a394466be52bcabcd96a9161a017ab1574759559
+
 
 # 分別 Lab 
 ## <연구주제> 
@@ -11,11 +8,8 @@
 
 ## <연구목적>
 
-<<<<<<< HEAD
 ![](https://github.com/choco9966/Alzheimer-Lab/blob/master/0616/image/1.jpg)
-=======
-![](https://github.com/choco9966/Alzheimer-Lab/blob/master/0626/image/1.jpg)
->>>>>>> a394466be52bcabcd96a9161a017ab1574759559
+
 
 *출처:https://www.fatimahosp.co.kr/print/6861 권재철 창원파티마병원 신경과 과장*
 
