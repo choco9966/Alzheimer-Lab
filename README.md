@@ -1,7 +1,6 @@
 ![](https://github.com/choco9966/Alzheimer-Lab/blob/master/0626/image/brain.jpg)
 
-# 分別 Lab - 알츠하이머
-
+# 分別 Lab 
 ## <연구주제> 
 
 딥러닝기법을 이용한 알츠하이머 이미지 분류.
