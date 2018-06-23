@@ -140,11 +140,4 @@ B) pet_augmentation_xml.cfg 설정
 <using_file_num>  #<data_dir>내의 이미지 파일 중 사용할 개수 지정
 3
 
-
-using_xml=0    
-wantednum=0    #생성되기 원하는 파일 수,  특별히 원하지 않으면 0, 
-                100으로 지정시 -생성이 500개 되면 400개를 삭제하고 100개만 남김
-usingfilenum=0  #0:파일 개수 모를때,  만일 100개중 50개만 사용하고 싶으면 50
-grey_img = 1    # 1:영상이 단색이면 1, 0: 컬러면
-data_dir = '/home/turbo/share/sda1/data/origin/1gr'  
-out_dir = '/home/turbo/share/sda1/data/origin/out'   
+   
