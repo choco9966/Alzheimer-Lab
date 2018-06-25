@@ -7,9 +7,8 @@
 ## 연구 활동
 
  
-- 강도영 교수님 : 1주차에 먼저 ‘뇌영상 인공지능 분석을 통한 알츠하이머 치매 진단 경험’이라는 PPT 자료를 가지고 알츠하이머에 관한 강의를 해 주심. AlexNet 모델을 바탕으로 여러 실험 결과를 시연해  주심.  
+- 강도영 교수님 : 1주차에 먼저 ‘뇌영상 인공지능 분석을 통한 알츠하이머 치매 진단 경험’이라는 PPT 자료를 가지고 알츠하이머에 관한 강의를 해 주심. AlexNet 모델을 바탕으로 여러 실험 결과를 시연해  주심. [[링크]](https://github.com/choco9966/Alzheimer-Lab/blob/master/0609/%EB%8F%99%EC%95%84%EB%8C%80%EB%B3%91%EC%9B%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(%EC%B5%9C%EC%A2%85).pdf)
 
-   링크 : https://drive.google.com/open?id=1HXGP4HSR3-AHJ7m23F12_md0oJPMJY0-
 
 - 양경성 부장님 : 번호판 인식 프로젝트 등 다양한 이미지 classification 경험을 바탕으로 다양한 기술적 진단을 내려 주셨음. 
       
