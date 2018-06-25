@@ -12,15 +12,16 @@
 
 - 양경성 부장님 : 번호판 인식 프로젝트 등 다양한 이미지 classification 경험을 바탕으로 다양한 기술적 진단을 내려 주셨음. 
       
-- 김웅곤 연구원 : 알츠하이머 분류 관련된 여러 논문들을 읽어봄. 교수님이 제공해주신  자료를 바탕으로 ResNet50 모델을 훈련시켜 보았음. 알츠하이머 0단계와 2단계는 의미 있는 classification 결과를 도출하였으나  알츠하이머 초중기단계에서의 Recall 이 매우 낮게 나왔음. 향후 데이터 Augmentation과 Hyperparameter optimization 기법  들을 동원하여 개선해야 할 것임. 
-
-   링크 : https://drive.google.com/open?id=1iUJsk2KJpZ5yU6l1wnP-LffflTkVJ6kHtnkRvo32xDY
+- 김웅곤 연구원 : 알츠하이머 분류 관련된 여러 논문들을 읽어봄. 교수님이 제공해주신  자료를 바탕으로 ResNet50 모델을 훈련시켜 보았음. 알츠하이머 0단계와 2단계는 의미 있는 classification 결과를 도출하였으나  알츠하이머 초중기단계에서의 Recall 이 매우 낮게 나왔음. 향후 데이터 Augmentation과 Hyperparameter optimization 기법  들을 동원하여 개선해야 할 것임. [[링크]](https://github.com/choco9966/Alzheimer-Lab/blob/master/0616/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B8%B0%EB%B2%95%EC%9D%84%20%ED%99%9C%EC%9A%A9%ED%95%9C%20%EC%95%8C%EC%B8%A0%ED%95%98%EC%9D%B4%EB%A8%B8%20%20Amyloid-PET%20%EB%B6%84%EB%A5%98.pdf)
 
 - 김현우 연구원 : 3주차 모임  때 새로 들어오셨음. 우리 랩의 Github를 개설함. 과거 Kaggle 대회 경험을 바탕으로 우리 Lab에 Contribution을 기대해 봅니다.
 
 ## 향후 계획
 
 - 강도영 교수님 : 미국 학회 방문 후 복귀 예정  
+
 - 양경성 부장님 : OpenCV를 활용한 ImageAugmentation을 시도해 볼 예정임
+
 - 김웅곤 연구원 : ResNet을 벗어나서 다양한 모델들을 실험해 보고 최적 모델을 찾아 보며 Optimal Hyperparameter를 찾아낼 것임  
+
 - 김현우 연구원 : 다양한 모델 들을 실험해 보며 Accuracy를 높일 방법을 연구 
