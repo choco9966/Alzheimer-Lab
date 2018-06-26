@@ -938,7 +938,8 @@ if os.path.exists(cfg_fname):
                 if (len(lines[i])==0): i+=1
                 if (i+1)>len(lines): break
                 if lines[i][0]=='<': break
-                target_files.append(lines[i])
+                _, filename = os.path.split(lines[i])
+                target_files.append(filename)
                 # print(lines[i])
         elif lines[i].find('<using_file_num>') != -1:
             i+=1
@@ -982,6 +983,7 @@ else:
 #======================================================
 # 생성될 파일 수 계산   mode=0이면 파일 생성 안하고 계산만
 #======================================================
+noise_light_add_option_cnt = 4  #noise_light를 옵션으로 선택할수 있는 기능의 수: (1) (2) (3) (4)임, 추후 추가될 수 있음
 total_pre_sum=0
 for i in range(len(make_option_sub)-1):
     base_num =0
@@ -996,13 +998,13 @@ for i in range(len(make_option_sub)-1):
         else : temp_a=0
         base_num= count_table1[i+1][make_option_sub[i+1][i+1]-1] * temp_a
         # print(i+1,'  base_num: ',base_num)
-        if (i+1)<=3 and noise_option[i+1][1]!=0:
+        if (i+1)<=noise_light_add_option_cnt and noise_option[i+1][1]!=0:
             # print(i + 1, '  pre_sum(noise): ', base_num * count_table2[0][make_option_sub[i+1][i+1]-1])
             pre_sum += base_num * count_table2[0][make_option_sub[i+1][i+1]-1]
         else:
             pre_sum =base_num  #base_num
             # print(i + 1, '  pre_sum(noise): ',0)
-        if (i+1)<=3 and light_option[i+1][1]!=0:
+        if (i+1)<=noise_light_add_option_cnt and light_option[i+1][1]!=0:
             # print(i + 1, '  pre_sum(light): ', base_num * count_table2[1][make_option_sub[i+1][i+1]-1])
             pre_sum += base_num * count_table2[1][make_option_sub[i+1][i+1]-1]
         else:
