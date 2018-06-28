@@ -1,7 +1,7 @@
 VGG16 model transfer learning
 
 - Train data
-train 415 images belonging to 3 classes
+train 451 images belonging to 3 classes
 
 - Test data
 152 images belonging to 3 classes
