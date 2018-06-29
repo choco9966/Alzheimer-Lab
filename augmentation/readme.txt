@@ -16,4 +16,9 @@ https://www.dropbox.com/s/gm5w2ptjypp0sp3/origin_augmented.zip?dl=0
 
 https://www.dropbox.com/s/3w6zkig5jobxadl/simple.zip?dl=0
 
+https://www.dropbox.com/s/pnijga3ben4uqr2/origin_augmented2.zip?dl=0
+
+https://www.dropbox.com/s/t9n1y7ef4gveurp/simple_augmented.zip?dl=0
+
+드롭박스의 용량 한계로 6월 29일 자정에 삭제할 예정이니 다운받아 두시기 바랍니다.
 
