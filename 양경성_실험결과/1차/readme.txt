@@ -55,3 +55,67 @@ avg / total       0.67      0.63      0.63      6000
 
 1 을 잘 구별 못하는 듯.(1을 2와 헤깔리는 듯)
 그래서 잡음과 조명 효과를 빼고 5000개씩 총 15000개로 다시 테스트 예정
+
+
+시트 4: 노이즈, 조명효과 뺀 15000개로 뻥튀기 한 후 75번 돌린 결과
+         뻥튀기 했으므로  steps_per_epoch=steps_per_epoch_train*50 은 하지 않음
+600/600 [==============================] - 95s 158ms/step - loss: 1.0737 - categorical_accuracy: 0.4439 - val_loss: 0.9514 - val_categorical_accuracy: 0.631
+
+Confusion matrix:
+[[568 385  47]
+ [287 590 123]
+ [ 66 199 735]]
+             precision    recall  f1-score   support
+
+          0       0.62      0.57      0.59      1000
+          1       0.50      0.59      0.54      1000
+          2       0.81      0.73      0.77      1000
+
+avg / total       0.64      0.63      0.64      3000
+
+시트 5: 노이즈, 조명효과 뺀 15000개로 뻥튀기 한 후 201번 돌린 결과
+         뻥튀기 했으므로  steps_per_epoch=steps_per_epoch_train*50 은 하지 않음
+600/600 [==============================] - 90s 150ms/step - loss: 1.2470 - categorical_accuracy: 0.3641 - val_loss: 1.0103 - val_categorical_accuracy: 0.5120
+
+Confusion matrix:
+[[774 129  97]
+ [552 274 174]
+ [402 110 488]]
+             precision    recall  f1-score   support
+
+          0       0.45      0.77      0.57      1000
+          1       0.53      0.27      0.36      1000
+          2       0.64      0.49      0.55      1000
+
+avg / total       0.54      0.51      0.49      3000
+
+시트 6: 단순화시킨 이미지(등고선 스타일)로 노이즈, 조명효과 뺀 15000개로 뻥튀기 한 후 319번 돌린 결과
+         뻥튀기 했으므로  steps_per_epoch=steps_per_epoch_train*50 은 하지 않음
+600/600 [==============================] - 98s 163ms/step - loss: 1.1477 - categorical_accuracy: 0.4041 - val_loss: 0.9430 - val_categorical_accuracy: 0.5860
+Confusion matrix:
+[[470 355 175]
+ [155 545 300]
+ [ 31 226 743]]
+             precision    recall  f1-score   support
+
+          0       0.72      0.47      0.57      1000
+          1       0.48      0.55      0.51      1000
+          2       0.61      0.74      0.67      1000
+
+avg / total       0.60      0.59      0.58      3000
+
+시트 7: 단순화시킨 이미지(등고선 스타일)로 노이즈, 조명효과 뺀 15000개로 뻥튀기 한 후 600번 돌린 결과
+         뻥튀기 했으므로  steps_per_epoch=steps_per_epoch_train*50 은 하지 않음
+600/600 [==============================] - 95s 158ms/step - loss: 1.0558 - categorical_accuracy: 0.4663 - val_loss: 0.8973 - val_categorical_accuracy: 0.6410
+
+Confusion matrix:
+[[423 392 185]
+ [ 37 659 304]
+ [  4 155 841]]
+             precision    recall  f1-score   support
+
+          0       0.91      0.42      0.58      1000
+          1       0.55      0.66      0.60      1000
+          2       0.63      0.84      0.72      1000
+
+avg / total       0.70      0.64      0.63      3000
