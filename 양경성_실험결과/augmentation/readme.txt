@@ -11,14 +11,19 @@
 1-4)simple_augmented.zip  : simple 폴더의 자료를 각각 노이즈, 조명효과 빼고 50,000개씩 augmentation시켜 총 15,000개 파일 생성
 
 github가 25M 용량제한이라 dropbox 에 올립니다.
+---------------------------------------------------------------------------
 
-https://www.dropbox.com/s/gm5w2ptjypp0sp3/origin_augmented.zip?dl=0
+2-1)origin_4_1_augmentation_30000.zip  : origin 폴더의 자료를 4:1 비율로 나누고 각각 8,000 : 2,000개씩 augmentation시켜 총 30,000개 파일 생성
 
-https://www.dropbox.com/s/3w6zkig5jobxadl/simple.zip?dl=0
+https://www.dropbox.com/s/ezy8jbvmbxtjmgl/origin_4_1_augmentation_30000.zip?dl=0
 
-https://www.dropbox.com/s/pnijga3ben4uqr2/origin_augmented2.zip?dl=0
+2-2)origin_4_1_augmentation_15000.zip  : origin 폴더의 자료를 4:1 비율로 나누고 노이즈, 조명효과 빼고 각각 4,000 : 1,000개씩 augmentation시켜 총 15,000개 파일 생성
 
-https://www.dropbox.com/s/t9n1y7ef4gveurp/simple_augmented.zip?dl=0
+https://www.dropbox.com/s/3jj54xjm20ribmt/origin_4_1_augmentation_15000.zip?dl=0
 
-드롭박스의 용량 한계로 6월 29일 자정에 삭제할 예정이니 다운받아 두시기 바랍니다.
+2-3)origin_4_1_augmentation_15000.zip  : simple 폴더의 자료를 4:1 비율로 나누고 노이즈, 조명효과 빼고 각각 4,000 : 1,000개씩 augmentation시켜 총 15,000개 파일 생성
+
+https://www.dropbox.com/s/bqgowgf9pbiluvl/simple_4_1_augmentation_15000.zip?dl=0
+
+드롭박스의 용량 한계로 7월 8일 자정에 삭제할 예정이니 다운받아 두시기 바랍니다.
 
