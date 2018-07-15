@@ -15,7 +15,7 @@
 
 |Input data :mag:|Train and validation results :chart_with_upwards_trend:|
 |:---:|:---:|
-|![](https://github.com/choco9966/Alzheimer-Lab/blob/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714/image/picture.PNG)|![](https://github.com/choco9966/Alzheimer-Lab/blob/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714/image/result.png
+|![](https://github.com/choco9966/Alzheimer-Lab/blob/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714/image/picture.PNG)|![](https://github.com/choco9966/Alzheimer-Lab/blob/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714/image/result.png)
 
 ### 랩소개 :man::woman:
 
