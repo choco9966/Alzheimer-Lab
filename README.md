@@ -38,9 +38,9 @@
 
 ## 실험결과
 
-| 실험 | Precision | Recall | F1-Score |  |
+| 실험 | Precision | Recall | F1-Score | 설명 및 코드 |
 |:---:|:---:|:---:|:---:|:---|
 |solution1||||Resnet을 적용|
-|solution2||||Augumentation을 적용한 Resnet|
-|solution3||||VGG16을 적용|
-|solution4||||Augumentation을 적용한 VGG16|
+|[solution2](https://github.com/choco9966/Alzheimer-Lab/tree/master/%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%EC%96%91%EA%B2%BD%EC%84%B1_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%5B0624%5DResnet)||||Augumentation을 적용한 Resnet|
+|[solution3](https://github.com/choco9966/Alzheimer-Lab/blob/master/%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%EA%B9%80%EC%9B%85%EA%B3%A4_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/VGG16/VGG16%20-%20kimwoonggon)||||VGG16을 적용|
+|[solution4](https://github.com/choco9966/Alzheimer-Lab/tree/master/%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%EC%96%91%EA%B2%BD%EC%84%B1_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%5B0625%5Dvgg16)||||Augumentation을 적용한 VGG16|
