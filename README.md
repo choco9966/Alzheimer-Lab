@@ -1,17 +1,17 @@
-# 분별 : Alzheimer-Lab
+# 분별 : Alzheimer-Lab :post_office:
 
-한국인공지능연구소에서 진행하는 [분별Lab](https://www.ai-lab.kr/labs/bunbyeol-raebjang-gimonggon)입니다 :post_office:
+한국인공지능연구소에서 진행하는 [분별Lab](https://www.ai-lab.kr/labs/bunbyeol-raebjang-gimonggon)입니다 
 
 ### Purpose
 
-딥러닝기법을 이용한 알츠하이머 아밀로이드 PET 이미지 분류:ambulance:
+딥러닝기법을 이용한 알츠하이머 아밀로이드 PET 이미지 분류
 
 ### Our Goals
 
 - 기존의 알츠하이머진단의 경우는 MRI, CT 등으로 이루어집니다. 하지만 이러한 진단은 어느정도 장애가 진행되어야지(경도인지장애) 확인이 가능합니다.
 하지만 Amyloid를 통한 진단의 경우 **조기진단은 가능**하지만 병의 진행이 **연속적**이기에 구분하기가 힘들고, 어느정도 전문성이 쌓여야 구분이 가능합니다. 
 
-- 이러한 문제를 해결하기 위해 딥러닝을 통한 이미지분류로 알츠하이머의 여부를 구분하는 연구를 진행하려고 합니다.
+- 이러한 문제를 해결하기 위해 딥러닝을 통한 이미지분류로 알츠하이머의 여부를 구분하는 연구를 진행하려고 합니다. :ambulance:
 
 ### 랩소개 :mag:
 
