@@ -40,11 +40,3 @@
 - 7월 - 실제 데이터를 바탕으로 모델링을 할 예정이며 Hyperparameter Tuning 기법을 연구
 
 - 8월 - 최적의 모델 도출 및 발표
-
-## < 진행상황 >
-
-|날짜|진행내용|자료|
-|---|---|---|
-|6월2일|팀결성 및 주제선정|[링크](https://github.com/choco9966/Alzheimer-Lab/blob/master/0609%EB%AF%B8%ED%8C%85/README.md)|
-|6월16일|Resnet을 이용한 분류|[링크](https://github.com/choco9966/Alzheimer-Lab/blob/master/0616%EB%AF%B8%ED%8C%85/README.md)|
-|6월30일|인공지능연구소1차발표 및 3차미팅|[링크](https://github.com/choco9966/Alzheimer-Lab/blob/master/0630%EB%AF%B8%ED%8C%85/0630%EB%AF%B8%ED%8C%85.md)|
