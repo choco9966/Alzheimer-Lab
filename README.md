@@ -13,10 +13,11 @@
 
 - 해결: 이러한 문제를 해결하기 위해 딥러닝을 통한 이미지분류로 알츠하이머의 여부를 구분하는 연구를 진행하려고 합니다. :ambulance:
 
-|||
+|Input data :mag:|Train and validation results :chart_with_upwards_trend:|
 |:---:|:---:|
-|![](https://github.com/choco9966/Alzheimer-Lab/blob/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714/image/result.png)|![](https://github.com/choco9966/Alzheimer-Lab/blob/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714/image/picture.PNG)
-### 랩소개 :mag:
+|![](https://github.com/choco9966/Alzheimer-Lab/blob/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714/image/picture.PNG)|![](https://github.com/choco9966/Alzheimer-Lab/blob/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714/image/result.png
+
+### 랩소개 :man::woman:
 
 저희 그룹은 최신 딥러닝 기법을 이용하여 이미지/영상 분류를 연구하는 모임입니다.연구에 주어진 자료들을 바탕으로 자료에 맞는 최적 분류모델을 도출하는 데 주안점을 두고 있습니다. 의학, IT, 통계 각 분야별 실무자 및 산업공학 재학생으로 구성돼 있는 만큼 서로 다른 도메인이 융합하여 강력한 시너지 효과를 내고자 합니다.
 
