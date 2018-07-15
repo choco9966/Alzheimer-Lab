@@ -38,5 +38,9 @@
 
 ## 실험결과
 
-| 실험 | 간단한 설명 및 링크 |
-|:---:|:---:|
+| 실험 | Precision | Recall | F1-Score | 비고 |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|Resnet||||||
+|Resnet with Augumentation||||||
+|VGG16||||||
+|VGG16 with Augumentation||||||
