@@ -38,9 +38,9 @@
 
 ## 실험결과
 
-| 실험 | Precision | Recall | F1-Score | 비고 |
-|:---:|:---:|:---:|:---:|:---:|
-|Resnet|||||
-|Resnet with Augumentation|||||
-|VGG16|||||
-|VGG16 with Augumentation|||||
+| 실험 | Precision | Recall | F1-Score |  |
+|:---:|:---:|:---:|:---:|:---|
+|solution1||||Resnet을 적용|
+|solution2||||Augumentation을 적용한 Resnet|
+|solution3||||VGG16을 적용|
+|solution4||||Augumentation을 적용한 VGG16|
