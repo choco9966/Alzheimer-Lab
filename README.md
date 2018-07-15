@@ -27,4 +27,16 @@
 
 - `김현우/연구원` : 현재 휴학중인 대학생입니다. 머신러닝 관련 프로젝터를 다수 수행하였으며 이번 기회를 통해 딥러닝 관련 프로젝트를 수행해보려 합니다.
 
+## 연구일지
 
+| 미팅요일 | 간단한 설명 및 링크 |
+|:---:|:---:|
+|6월2일|[팀결성 및 주제선정](https://github.com/choco9966/Alzheimer-Lab/tree/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180602)|	
+|6월16일|[Resnet을 이용한 분류](https://github.com/choco9966/Alzheimer-Lab/tree/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180616)|
+|6월30일|[VGG16을 이용한 분류](https://github.com/choco9966/Alzheimer-Lab/tree/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180630)|
+|7월14일|[Idea 논의](https://github.com/choco9966/Alzheimer-Lab/tree/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714)|
+
+## 실험결과
+
+| 실험 | 간단한 설명 및 링크 |
+|:---:|:---:|
