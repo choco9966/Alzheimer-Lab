@@ -1,4 +1,4 @@
-## 분별 : Alzheimer-Lab
+# 분별 : Alzheimer-Lab
 
 한국인공지능연구소에서 진행하는 [분별 lab](https://www.ai-lab.kr/labs/bunbyeol-raebjang-gimonggon)입니다.
 
