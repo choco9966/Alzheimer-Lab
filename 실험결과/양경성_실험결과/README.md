@@ -9,3 +9,5 @@
 
 `augumentation`: [0702 augumentation 하는 방법](https://github.com/choco9966/Alzheimer-Lab/blob/master/%EC%96%91%EA%B2%BD%EC%84%B1_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/augmentation/readme.txt)
 
+'4차' : 
+
