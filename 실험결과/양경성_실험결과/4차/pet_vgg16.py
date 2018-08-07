@@ -27,7 +27,7 @@ from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_sc
 from sklearn.grid_search import GridSearchCV
 from sklearn.utils.class_weight import compute_class_weight
 
-save_model='/home/turbo/study/playground/pet_resnet50/model/vgg16_d0.h5'
+save_model='/home/turbo/study/playground/pet_resnet50/model/vgg16_e12.h5'
 
 # ResNet50 으로 케라스에서 ResNet 모형을 불러옵니다
 # model = ResNet50(include_top=True, weights='imagenet')
@@ -58,8 +58,8 @@ datagen_train = ImageDataGenerator(rescale=1./128)
 datagen_test = ImageDataGenerator(rescale=1./128)
 
 # train 디렉토리와 test 디렉토리를 정의합니다.
-train_dir = '/home/turbo/share/sda1/data/train7'
-test_dir  = '/home/turbo/share/sda1/data/valid7'
+train_dir = '/home/turbo/share/sda1/data/train19'
+test_dir  = '/home/turbo/share/sda1/data/valid19'
 test_portion = 0.2   #train:test 분배비율 - test 쪽 값만 써주면 됨(합이 1이 되게)
 
 def divide_data(test_portion):
@@ -275,7 +275,8 @@ plt.show()
 
 # 모델을 원하는 위치에 저장해 줍니다.
 # model.save('/home/turbo/study/playground/pet_resnet50/model/resnet50_3.h5')
-model.save(save_model)
+# model.save(save_model)
+new_model.save(save_model)
 
 # 모델의 label을 확인합니다.
 class_name = generator_train.class_indices.keys()
