@@ -39,6 +39,7 @@
 |6월16일|[Resnet을 이용한 분류](https://github.com/choco9966/Alzheimer-Lab/tree/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180616)| unimbalanced 문제를 해결하기 위해 Augumentation 적용 논의 |
 |6월30일|[VGG16을 이용한 분류](https://github.com/choco9966/Alzheimer-Lab/tree/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180630)| VGG16의 성능이 Resnet보다 뛰어난것을 확인 
 |7월14일|[Idea 논의](https://github.com/choco9966/Alzheimer-Lab/tree/master/%ED%9A%8C%EC%9D%98%EB%82%B4%EC%9A%A9/20180714)| 앙생블 및 기존의 진행된 모델 결과  |
+|7월27일|[Idea 논의]||
 
 ## 실험결과
 
@@ -48,3 +49,4 @@
 |[solution2](https://github.com/choco9966/Alzheimer-Lab/tree/master/%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%EC%96%91%EA%B2%BD%EC%84%B1_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%5B0624%5DResnet)||||Augumentation을 적용한 Resnet|
 |[solution3](https://github.com/choco9966/Alzheimer-Lab/blob/master/%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%EA%B9%80%EC%9B%85%EA%B3%A4_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/VGG16/VGG16%20-%20kimwoonggon)||||VGG16을 적용|
 |[solution4](https://github.com/choco9966/Alzheimer-Lab/tree/master/%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%EC%96%91%EA%B2%BD%EC%84%B1_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%5B0625%5Dvgg16)||||Augumentation을 적용한 VGG16|
+|[solution5](https://github.com/choco9966/Alzheimer-Lab/tree/master/%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%EC%96%91%EA%B2%BD%EC%84%B1_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%5B0807%5D%EC%B6%94%EA%B0%80%EC%8B%A4%ED%97%98)|1. data set 감소 2. augumentation 다르게 적용 3. test set 건드리지 않은 상태.|https://github.com/choco9966/Alzheimer-Lab/tree/master/%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%EC%96%91%EA%B2%BD%EC%84%B1_%EC%8B%A4%ED%97%98%EA%B2%B0%EA%B3%BC/%5B0807%5D%EC%B6%94%EA%B0%80%EC%8B%A4%ED%97%98|
