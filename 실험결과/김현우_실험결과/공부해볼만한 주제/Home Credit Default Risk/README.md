@@ -1,0 +1,2 @@
+- https://www.kaggle.com/chocozzz/simple-eda-for-beginners-with-r-1
+- https://www.kaggle.com/chocozzz/fork-tidy-xgb-all-tables-lightgbm-0-792
