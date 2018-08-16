@@ -111,3 +111,6 @@
 - 영화 관객수 예측
 - 게임유저 이탈여부 예측
 
+#### 2. [Dacon.lnc](https://www.facebook.com/datacompetetion/?hc_ref=ARRArHK_yB-Fwm6_v1hjiCE0G82auKJ93MfkLuk9e02y3zdpHXunG84mHBEswCjPwyo&fref=nf)
+
+- 국내 여러 상점의 신용카드 데이터로 향후 100일 동안의 매출을 예측.
